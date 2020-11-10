@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá Dev 👋
 
-<!--
-**ThiagoAlencar12/ThiagoAlencar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Thiago Alencar, desenvolvedor Full Stack, apaixonado pelas tecnologias mais atuais do mercado de desenvolvimento web e mobile. Trabalho atualmente com NestJS, um framework do NodeJS baseado no AngularJS, nas tecnologias frontend usando VueJS e ReactJS, no mobile usando Flutter e React Native!
 
-Here are some ideas to get you started:
+- 🔭 Atualmente trabalhando como desenvolvedor na empresa Brisanet Telecomunicações.
+- 🌱 Sempre estudando sobre Typescript, Javascript, ReactJS, React Native, NodeJS, NestJS e VueJS.
+- 🖥 Formado em Análise e Desenvolvimento de Sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center" >
+
+[![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoAlencar12&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAlencar12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
