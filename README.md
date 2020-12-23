@@ -11,7 +11,7 @@ Meu nome é Thiago Alencar, desenvolvedor Full Stack, apaixonado pelas tecnologi
 <div align="center" >
 
 [![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoAlencar12&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="320px" align="right" alt="Computador iuriCode">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAlencar12&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
