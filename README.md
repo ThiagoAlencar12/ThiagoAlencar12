@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  Meu nome é Thiago Alencar, desenvolvedor Full Stack, apaixonado pelas tecnologias mais atuais do mercado de desenvolvimento web e mobile. Trabalho atualmente com NestJS, um framework do NodeJS baseado no AngularJS, nas tecnologias frontend usando VueJS e ReactJS, no mobile usando Flutter e React Native!
+  🔥  Meu nome é Thiago Alencar, desenvolvedor Full Stack, apaixonado pelas tecnologias mais atuais do mercado de desenvolvimento web e mobile. Trabalho atualmente com NestJS, um framework do NodeJS baseado no AngularJS, nas tecnologias frontend usando VueJS e ReactJS, no mobile usando Flutter e React Native!
 </p>
 
 <p align="left">
@@ -13,7 +13,7 @@
 
 <p align="left">
  <strong>
-- 🖥 Sempre estudando sobre Typescript, Javascript, ReactJS, React Native, NodeJS, NestJS e VueJS.
+- 🖥 Trabalho com VueJS e NestJS, em projetos por fora, utilizo ReactJS, NodeJS usando framework ExpressJS, nas tecnologias mobile uso React Native e Flutter.
 </p>
 
 <p align="left">
