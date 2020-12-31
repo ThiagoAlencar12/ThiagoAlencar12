@@ -1,20 +1,34 @@
 ### Olá Dev 👋
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-Meu nome é Thiago Alencar, desenvolvedor Full Stack, apaixonado pelas tecnologias mais atuais do mercado de desenvolvimento web e mobile. Trabalho atualmente com NestJS, um framework do NodeJS baseado no AngularJS, nas tecnologias frontend usando VueJS e ReactJS, no mobile usando Flutter e React Native!
+<p align="left">
+  Meu nome é Thiago Alencar, desenvolvedor Full Stack, apaixonado pelas tecnologias mais atuais do mercado de desenvolvimento web e mobile. Trabalho atualmente com NestJS, um framework do NodeJS baseado no AngularJS, nas tecnologias frontend usando VueJS e ReactJS, no mobile usando Flutter e React Native!
+</p>
 
-- 🔭 Atualmente trabalhando como desenvolvedor na empresa Brisanet Telecomunicações.
-- 🌱 Sempre estudando sobre Typescript, Javascript, ReactJS, React Native, NodeJS, NestJS e VueJS.
-- 🖥 Formado em Análise e Desenvolvimento de Sistemas.
+<p align="left">
+ <strong>
+  - 🔭 Atualmente trabalhando como desenvolvedor na empresa Brisanet Telecomunicações.
+</p>
 
-<div style="display: flex; flex-direction: column ;justify-content: center; align-itens: center; margin-top: 60px; height: 300px; width: 450px">
+<p align="left">
+ <strong>
+- 🖥 Sempre estudando sobre Typescript, Javascript, ReactJS, React Native, NodeJS, NestJS e VueJS.
+</p>
+
+<p align="left">
+ <strong>
+-  🧑‍💻 Graduado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Vale do Salgado.
+</p>
 
 [![Thiago's github stats](https://github-readme-stats.vercel.app/api?username=ThiagoAlencar12&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAlencar12&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
 
-<div style="position: absolute; right: 0; top: 250px;"> 
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-</div>
-
+<p align="center">
+  <a href="https://github.com/ThiagoAlencar12" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ThiagoAlencar12"/></a>
+  
+  <a href="https://www.linkedin.com/in/thiagoalencardev/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoalencardev/" /></a>
+</p>  
