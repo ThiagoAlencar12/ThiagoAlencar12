@@ -6,7 +6,6 @@
   🚀 Eu sou Thiago Alencar, Desenvolvedor Web Frontend, graduado em Análise e desenvolvimento de sistemas pela UNIVS, Alumni do Ignite, bootcamp da Rocketseat e mentor na equipe SpaceSquard da Rocketseat!
 </h4>
 
-<br/>
 
 <p align="left">
  <strong>
