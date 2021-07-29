@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador iuriCode">
 
-<h3 align="left">
+<h4 align="left">
   🚀 Eu sou Thiago Alencar, Desenvolvedor Web Frontend, graduado em Análise e desenvolvimento de sistemas pela UNIVS, Alumni do Ignite, bootcamp da Rocketseat e mentor na equipe SpaceSquard da Rocketseat!
-</h3>
+</h4>
 
 <br/>
 
