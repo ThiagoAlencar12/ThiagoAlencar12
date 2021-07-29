@@ -1,11 +1,11 @@
-### Olá Dev 👋
+### Olá Cosmonauta 👨‍🚀🚀 
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador iuriCode">
 
 <h3 align="left">
-  🔥 Hi, eu sou Thiago Alencar, Desenvolvedor Web Frontend, graduado em Análise e desenvolvimento de sistemas pela UNIVS, Alumni do Ignite, bootcamp da Rocketseat e mentor na equipe SpaceSquard!
+  🚀 Eu sou Thiago Alencar, Desenvolvedor Web Frontend, graduado em Análise e desenvolvimento de sistemas pela UNIVS, Alumni do Ignite, bootcamp da Rocketseat e mentor na equipe SpaceSquard da Rocketseat!
 </h3>
 
 <br/>
@@ -17,10 +17,6 @@
 
 <p align="left">
  <strong>
-- 🖥 Experiencias com tecnologias atuais como VueJS e NuxtJS(SSR), ReactJS e NextJS(SSR), Typescript, React Native e Flutter.
-</p>
-<p align="left">
- <strong>
 - 🚀 Mentor no grupo SpaceSquad da <a href="https://rocketseat.com.br/sobre">@Rocketseat 🚀</a>
 </p>
 <p align="left">
@@ -28,6 +24,7 @@
 -  🧑‍💻 Graduado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Vale do Salgado.
 </p>
 
+<br/>
 <br/>
 
 <h1>
@@ -37,22 +34,12 @@
 <p align="justify">
 <div>
   <h2>
-   Development 👨‍💻 
-  </h2>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  
-  <br />
-  <br />
-  
-  <h2>
     Server 👨‍🏭 
   </h2>
+   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/express-green.svg?&style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="GraphQL" src="https://img.shields.io/badge/graphql%20-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=white"/>
   <img alt="GraphQL" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="GraphQL" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
@@ -62,6 +49,8 @@
 <div>
   
   <h2> Web 💻 </h2>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="NextJS" src="https://img.shields.io/badge/nextjs%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -112,8 +101,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ThiagoAlencar12" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ThiagoAlencar12"/></a>
+  <a href="https://www.youtube.com/channel/UCAp3AhI-ZgABm6haaX0OlEA" alt="Youtube">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   
   <a href="https://www.linkedin.com/in/thiagoalencardev/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoalencardev/" /></a>
