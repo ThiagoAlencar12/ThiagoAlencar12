@@ -21,13 +21,9 @@
  <strong>
 -  🧑‍💻 Graduado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Vale do Salgado.
 </p>
-
-<br/>
-
 <h1>
 🖥 Tecnologias
 </h1>
-
 <p align="justify">
 <div>
   <h2>
