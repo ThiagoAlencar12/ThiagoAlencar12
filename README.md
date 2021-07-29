@@ -1,7 +1,5 @@
 ### Olá Cosmonauta 👨‍🚀🚀 
 
-<br/>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador iuriCode">
 
 <h3 align="left">
@@ -24,7 +22,6 @@
 -  🧑‍💻 Graduado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Vale do Salgado.
 </p>
 
-<br/>
 <br/>
 
 <h1>
