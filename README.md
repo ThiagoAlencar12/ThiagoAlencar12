@@ -9,7 +9,7 @@
 
 <p align="left">
  <strong>
-  - 🔭Desenvolvedor Web Frontend na Brisanet Telecomunicações.
+  - 🔭Desenvolvedor FullStack na Brisanet Telecomunicações.
 </p>
 
 <p align="left">
