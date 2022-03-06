@@ -1,25 +1,29 @@
-### Olá Cosmonauta 👨‍🚀🚀 
+### Olá Pessoa! 😄🚀
+
+</br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador iuriCode">
 
-<h4 align="left">
-  🚀 Eu sou Thiago Alencar, Desenvolvedor Web Frontend, graduado em Análise e desenvolvimento de sistemas pela UNIVS, Alumni do Ignite, bootcamp da Rocketseat e mentor na equipe SpaceSquard da Rocketseat!
-</h4>
-
-
+<h3 align="left">
+  🚀 Eu sou Thiago Alencar, graduado em Análise e desenvolvimento de sistemas pela UNIVS, Alumni do Ignite, bootcamp da Rocketseat e mentor na equipe SpaceSquard da Rocketseat!
+</h3>
+</br>
 <p align="left">
  <strong>
-  - 🔭Desenvolvedor FullStack na Brisanet Telecomunicações.
+  - 🔭 Desenvolvedor Mobile na <a href="https://pontomais.com.br/">@Pontomais</a>.
 </p>
 
 <p align="left">
  <strong>
 - 🚀 Mentor no grupo SpaceSquad da <a href="https://rocketseat.com.br/sobre">@Rocketseat 🚀</a>
 </p>
+
 <p align="left">
  <strong>
 -  🧑‍💻 Graduado em Análise e Desenvolvimento de Sistemas pelo Centro Universitário Vale do Salgado.
 </p>
+</br>
+
 <h1>
 🖥 Tecnologias
 </h1>
@@ -84,7 +88,6 @@
 
   <img alt="Styled Components" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
  <img alt="Styled Components" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
- <img alt="Styled Components" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
   </p>
 
 </div>
@@ -95,7 +98,8 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCAp3AhI-ZgABm6haaX0OlEA" alt="Youtube">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/thiagoalencardev/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoalencardev/" /></a>
 </p>
