@@ -30,7 +30,7 @@
 <p align="justify">
 <div>
   <h2>
-    Server 👨‍🏭 
+    Backend 👨‍🏭 
   </h2>
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -44,7 +44,7 @@
 <br />
 <div>
   
-  <h2> Web 💻 </h2>
+  <h2> Frontend 💻 </h2>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
