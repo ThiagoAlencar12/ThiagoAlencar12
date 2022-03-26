@@ -2,28 +2,24 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador iuriCode">
 
-<h3 align="left">
+<h4 align="left">
   My name is Thiago Alencar, graduated in analysis and development system through the UNIVS, graduate student in Software engineering and Alumni's Ignite bootcamp program. Focused on technologies in the stack JavaScript, ReactJS, NodeJS and currently working with React Native for development mobile within JavaScript and Flutter! Constanly improving skills and practicing every day to develop solutions in the best way possible!
-</h3>
+</h4>
 </br>
 
 <p align="left">
- <strong>
   - 💻 Enthusiast of the best web & mobile development technologies with Javascript and Typescript.
 </p>
 
 <p align="left">
- <strong>
   - 🔭 Software Developer Mobile at <a href="https://pontomais.com.br/">@Pontomais 🕗 </a>.
 </p>
 
 <p align="left">
- <strong>
 - 🚀 Mentor on group SpaceSquad at <a href="https://rocketseat.com.br/sobre">@Rocketseat 🚀</a>
 </p>
 
 <p align="left">
- <strong>
 -  🧑‍💻 Graduate in Analysis and Development Systems by UNIVS and graduate student in Software Engineering.
 </p>
 </br>
